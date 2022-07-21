@@ -1,0 +1,5 @@
+{
+  "default": {
+    "codeporting-translator-cs2cpp-framework" : { "baseline": "22.7", "port-version": 0 }
+  }
+}
